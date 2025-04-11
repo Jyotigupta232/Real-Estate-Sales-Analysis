@@ -51,7 +51,8 @@ This project analyzes the Connecticut Real Estate Sales dataset from 2001 to 202
 - **Chi-Square test**: Relationship between categorical features like town and property type
 
 ---
-
+# Taga
+- #DataVisualization #EDA
 ## 🛠️ Tools Used
 
 - Python (Pandas, NumPy)
