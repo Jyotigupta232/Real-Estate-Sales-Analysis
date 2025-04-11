@@ -58,3 +58,6 @@ This project analyzes the Connecticut Real Estate Sales dataset from 2001 to 202
 - Matplotlib & Seaborn (for visualizations)
 - SciPy & statsmodels (for statistical tests)
 - Jupyter Notebook
+
+##Tags
+- #Data
